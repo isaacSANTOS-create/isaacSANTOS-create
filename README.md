@@ -28,8 +28,7 @@ Apaixonado por tecnologia, design e desenvolvimento de software. 🚀 Atualmente
 
 # 📊 Estatísticas do GitHub
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacSANTOS-create&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaacSANTOS-create&theme=github_dark"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacSANTOS-create&theme=github_dark"/>
 </div>
 <div align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaacSANTOS-create&theme=github_dark"/>
@@ -71,3 +70,4 @@ Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferrame
 > "A tecnologia move o mundo." — Steve Jobs
 
 </div>
+
